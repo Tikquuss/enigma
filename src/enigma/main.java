@@ -34,6 +34,7 @@ public class main extends Application {
         
         // Largeur : width, Hauteur : heigth
         Scene scene = new Scene(root, 930, 440);
+        //Scene scene = new Scene(root, 960, 440);
         
         primaryStage.setTitle("Enigma");
         primaryStage.setScene(scene);
